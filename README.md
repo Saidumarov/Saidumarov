@@ -33,10 +33,7 @@ Hello
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,next,express,firebase,mongodb,redux,Zustand" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,mui,figma,git,github,linux" /><br>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/antdesign.svg" height="40" alt="Ant Design" style="fill:#0170FE;" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/chakraui.svg" height="40" alt="Chakra UI" style="fill:#319795;" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/shadcn.svg" height="40" alt="Shadcn" style="fill:#F7DF1E;" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,mui,antdesign,chakraui,figma,shadcn,git,github,linux" /><br>
 </div>
 
 
