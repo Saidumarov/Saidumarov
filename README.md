@@ -41,8 +41,6 @@ Hello
     <img src="https://play-lh.googleusercontent.com/f93XWNTUzWLsm0ulRJWHrZR_gG87PPaTg2ubX8JiCgJMiEl4M3RYxiyouUNQ189aaWo=w240-h480-rw" alt="supabase"  height="70" />
 </div>
 
-
-
 <br/>
 <hr/>
 
@@ -68,9 +66,7 @@ Hello
 </div>
 
 <br/><br/>
+
 <hr/>
 
-
-
 <br/>
-
