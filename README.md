@@ -32,9 +32,12 @@ Hello
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,next,express,firebase,mongodb,redux,zustand" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,mui,figma,git,github,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,next,express,firebase,mongodb,redux,zustand,html,css,bootstrap,sass,tailwindcss,mui,figma,git,github,linux" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/antdesign.svg" height="40" alt="Ant Design" style="margin-left: 5px; margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/chakraui.svg" height="40" alt="Chakra UI" style="margin-left: 5px; margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/shadcn.svg" height="40" alt="Shadcn" style="margin-left: 5px; margin-right: 5px;" />
 </div>
+
 
 
 <br/>
