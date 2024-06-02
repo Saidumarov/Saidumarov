@@ -22,7 +22,7 @@ Hello
   <a href="https://www.linkedin.com/in/ja%E2%80%99farxon-saidumarov-bab317296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/saidumarov" target="_blank">
+  <a href="https://jafarxon.uz" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -34,15 +34,13 @@ Hello
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,next,express,firebase,mongodb,redux" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,mui,figma,git,github,linux" /><br>
-    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png" 
-     alt="zustand" height="80" style="margin-left:-5px;" />
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query"  height="80" style="margin-left:-5px;" />
-    <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F505%2F265%2Ffull%2Fchakra-lv1.png&w=640&q=100"  height="80" 
-     style="margin-left:-5px;" />
-    <img src="https://play-lh.googleusercontent.com/f93XWNTUzWLsm0ulRJWHrZR_gG87PPaTg2ubX8JiCgJMiEl4M3RYxiyouUNQ189aaWo=w240-h480-rw" alt="supabase"  height="70" style="margin-left:15px;" />
+    <img src="https://blog.openreplay.com/images/zustand-state-management-for-react/images/hero.png" 
+    alt="zustand" height="80"/>
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query" height="80" />
+    <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F505%2F265%2Ffull%2Fchakra-lv1.png&w=640&q=100"  height="80" />
+    <img src="https://play-lh.googleusercontent.com/f93XWNTUzWLsm0ulRJWHrZR_gG87PPaTg2ubX8JiCgJMiEl4M3RYxiyouUNQ189aaWo=w240-h480-rw" alt="supabase"  height="70" />
     
 </div>
-
 
 
 
