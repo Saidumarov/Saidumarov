@@ -1,20 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
+<h1 align="center" style="display: flex; align-items: center;justify-content: center; ">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ja'farxon+Saidumarov!;" />
-    <img src="/assets/fullstak.gif" width:"100px" hight:"100px" />
+     <img height="150" style="border-radius: 10px;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"  />
 </h1>
 
-<h3 align="center">Software developer </h3>
-
+<h3 align="center">Frontend developer </h3>
 <br/>
-
 <div align="center">
- 
-Hello
- ⚡ 
- 
+  ⚡ I am a Frontend developer, I develop websites, online
+  stores, SRM systems and applications.<br/>
+  I learned programming in Najot education using real projects. To learn more about me, visit <a href="https://jafarxan.uz">jafarxan.uz</a> !
  </div>
+ <br/>
  
 <div align="center"> 
   <a href="#">
@@ -46,7 +44,7 @@ Hello
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 GitHub Snake 🐍</h2>
   <br>
  <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
