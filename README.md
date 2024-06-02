@@ -39,7 +39,6 @@ Hello
     <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query" height="80" />
     <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F505%2F265%2Ffull%2Fchakra-lv1.png&w=640&q=100"  height="80" />
     <img src="https://play-lh.googleusercontent.com/f93XWNTUzWLsm0ulRJWHrZR_gG87PPaTg2ubX8JiCgJMiEl4M3RYxiyouUNQ189aaWo=w240-h480-rw" alt="supabase"  height="70" />
-    <img src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=900x900" alt="supabase"  height="70" />
 </div>
 
 
