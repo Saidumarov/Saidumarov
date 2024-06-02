@@ -33,7 +33,7 @@ Hello
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,next,express,firebase,mongodb,redux" /> <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png" alt="zustand" height="40" style="margin-left:-5px;" /> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,mui,figma,git,github,linux,react-query" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,mui,figma,git,github,linux,query" /><br>
 </div>
 
 
