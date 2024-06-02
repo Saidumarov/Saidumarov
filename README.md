@@ -34,7 +34,7 @@ Hello
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,next,express,firebase,mongodb,redux" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,mui,figma,git,github,linux" /><br>
-    <img src="https://blog.openreplay.com/images/zustand-state-management-for-react/images/hero.png" 
+    <img src="https://camo.githubusercontent.com/9d6872a08d82b7e450a7ebb8e494b1458b399ce59378b1e11a86fd4bb4c1ea3e/68747470733a2f2f6d656469612e6465762e746f2f63646e2d6367692f696d6167652f77696474683d313030302c6865696768743d3432302c6669743d636f7665722c677261766974793d6175746f2c666f726d61743d6175746f2f68747470732533412532462532466465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d253246692532466c6674677a77677a793867327538767177736f322e706e67" 
     alt="zustand" height="80" style=border-radius: 10px;" />
     <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query" height="80" />
     <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F505%2F265%2Ffull%2Fchakra-lv1.png&w=640&q=100"  height="80" />
