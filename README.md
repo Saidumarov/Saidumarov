@@ -10,7 +10,7 @@
 <div align="center">
   ⚡ I am a Frontend developer, I develop websites, online
   stores, SRM systems and applications.<br/>
-  I learned programming in Najot education using real projects. To learn more about me, visit <a href="https://jafarxan.uz">jafarxan.uz</a> !
+  I learned programming in Najot education using real projects. To learn more about me, visit <a target="_blank" href="https://jafarxon.uz">jafarxon.uz</a> !
  </div>
  <br/>
  
