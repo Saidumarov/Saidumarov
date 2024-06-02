@@ -36,9 +36,11 @@ Hello
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,mui,figma,git,github,linux" /><br>
     <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png" 
      alt="zustand" height="80" style="margin-left:-5px;" />
-   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query"  height="80" style="margin-left:-5px;" />
-     <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000"  height="80" style="margin-left:-5px;" />
-    <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F505%2F265%2Ffull%2Fchakra-lv1.png&w=640&q=100"  height="80" style="margin-left:-5px;" />
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query"  height="80" style="margin-left:-5px;" />
+    <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F505%2F265%2Ffull%2Fchakra-lv1.png&w=640&q=100"  height="80" 
+     style="margin-left:-5px;" />
+    <img src="https://play-lh.googleusercontent.com/f93XWNTUzWLsm0ulRJWHrZR_gG87PPaTg2ubX8JiCgJMiEl4M3RYxiyouUNQ189aaWo=w240-h480-rw" alt="supabase"  height="80" style="margin-left:-5px;" />
+    
 </div>
 
 
